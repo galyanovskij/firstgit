@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+h2 {
+  text-align: center;
+}
+#first_li {
+  color: blueviolet;
+}
+
+.text {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.box {
+  box-sizing: border-box;
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+  float: left;
+}
+
+img {
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+}
